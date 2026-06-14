@@ -1,0 +1,6 @@
+{
+  "name": "ImageToCode AI",
+  "description": "A sleek dark-themed platform that effortlessly transforms wireframes and screenshots into ready-to-use application code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
